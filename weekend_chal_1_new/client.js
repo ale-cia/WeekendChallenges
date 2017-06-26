@@ -1,21 +1,5 @@
 $(document).ready(function(){
 
-
- //  $("#next").on("click", function() {
- //    console.log("Next button Clicked!");
- // });
- //
- //
- //  $("#prev").on("click", function() {
- //  console.log("Prev button Clicked!");
- // });
-
-   // var numClicked = 0;
-   //   $("#next").on("click", function(){
-   //       numClicked +=1;
-   //   });
-   //    console.log(numClicked);
-
    var p = document.getElementById("textDisplay");
    var counter= document.getElementById("counter");
    var arrayIndex = 0;
