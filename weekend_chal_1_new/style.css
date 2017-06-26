@@ -1,0 +1,35 @@
+body {
+    background-image: url('img/lemuel-butler-515.jpg');
+    background-size: 1150px;
+    /*opacity: 0.6;*/
+}
+
+p {
+    color: black;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
+
+.container {
+    height: 600px;
+    text-align: center;
+    width: 1000px;
+    /*border: 1px solid #fff;*/
+}
+
+#textDisplay {
+ color: black;
+ text-align: center;
+ font-size: 25px;
+ font-weight: bold;
+ text-align: center;
+}
+
+#counter {
+    color: white;
+    font-size: 25px;
+}
+
+
+}
